@@ -24,4 +24,4 @@ let g:mutt_aliases_path = "~/.mutt/aliases"
 
 Also available in [webm video](https://media.githubusercontent.com/media/diego-treitos/MuttAliasesAutoCompletion/master/stuff/MuttAliasesAutoCompletion.webm)
 
-[LSE Demo](https://media.githubusercontent.com/media/diego-treitos/MuttAliasesAutoCompletion/master/stuff/MuttAliasesAutoCompletion.gif)
+![LSE Demo](https://media.githubusercontent.com/media/diego-treitos/MuttAliasesAutoCompletion/master/stuff/MuttAliasesAutoCompletion.gif)
