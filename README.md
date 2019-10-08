@@ -4,6 +4,9 @@ Auto Completion for contacts in a mutt aliases file
 This plugin will get the contacts for a _mutt aliases file_ and autocomplete them in vim while you type inside the `To:`, `Cc:` and `Bcc:` headers.
 
 # Installation
+
+Install `git-lfs`.
+
 Install the traditional way or just use _Plug_
 
 ```
